@@ -1,0 +1,11 @@
+query_text,expected_intent,predicted_intent,expected_escalation,predicted_escalation
+My mobile banking app says my credentials have expired,Account Access,Account Access,NORMAL_PROCESSING,NORMAL_PROCESSING
+How can I register a power of attorney for my savings account?,Account Services,Account Services,NORMAL_PROCESSING,NORMAL_PROCESSING
+My recurring deposit maturity amount seems incorrect,Deposit Issue,Deposit Issue,NORMAL_PROCESSING,NORMAL_PROCESSING
+An online purchase appeared on my card although I was asleep,Fraud/Unauthorized,Transaction/Payment Issue,MANUAL_REVIEW,MANUAL_REVIEW
+My passport details are not updating in the bank records,KYC,Account Services,NORMAL_PROCESSING,NORMAL_PROCESSING
+Why was my education loan interest subsidy rejected?,Loan,Loan,NORMAL_PROCESSING,NORMAL_PROCESSING
+The beneficiary received less money than I transferred,Transaction/Payment Issue,Transaction/Payment Issue,NORMAL_PROCESSING,NORMAL_PROCESSING
+A caller pretending to be bank staff wants my internet banking password,Fraud/Unauthorized,Account Access,MANUAL_REVIEW,HIGH_PRIORITY_FRAUD_REVIEW
+My cheque deposit is showing as returned,Transaction/Payment Issue,Transaction/Payment Issue,NORMAL_PROCESSING,NORMAL_PROCESSING
+Can I set a lower daily transaction limit for my debit card?,Account Services,Transaction/Payment Issue,NORMAL_PROCESSING,NORMAL_PROCESSING

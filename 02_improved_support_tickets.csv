@@ -1,0 +1,235 @@
+query_text,category
+I see a transaction of ₹999 I didn't make on 25-Apr-2023,Fraud/Unauthorized
+I see a transaction of ₹500 I didn't make on 16-Sep-2023,Fraud/Unauthorized
+"I see a transaction of ₹25,000 I didn't make on 24-Dec-2023",Fraud/Unauthorized
+I see a transaction of ₹999 I didn't make on 16-May-2023,Fraud/Unauthorized
+"I see a transaction of ₹25,000 I didn't make on 24-Jan-2023",Fraud/Unauthorized
+"There's an ATM withdrawal of ₹5,000 from Bangalore but I'm in Ahmedabad",Fraud/Unauthorized
+"There's an ATM withdrawal of ₹7,500 from Hyderabad but I'm in Chandigarh",Fraud/Unauthorized
+"There's an ATM withdrawal of ₹2,000 from Hyderabad but I'm in Jaipur",Fraud/Unauthorized
+"There's an ATM withdrawal of ₹15,000 from Hyderabad but I'm in Chandigarh",Fraud/Unauthorized
+There's an ATM withdrawal of ₹500 from Hyderabad but I'm in Ahmedabad,Fraud/Unauthorized
+I received an OTP but never requested it,Fraud/Unauthorized
+My card was charged ₹999 by an unknown merchant,Fraud/Unauthorized
+My card was charged ₹500 by an unknown merchant,Fraud/Unauthorized
+"My card was charged ₹25,000 by an unknown merchant",Fraud/Unauthorized
+"My card was charged ₹15,000 by an unknown merchant",Fraud/Unauthorized
+"I got a message that ₹15,000 was debited but I didn't shop",Fraud/Unauthorized
+"I got a message that ₹7,500 was debited but I didn't shop",Fraud/Unauthorized
+"I got a message that ₹3,500 was debited but I didn't shop",Fraud/Unauthorized
+"I got a message that ₹1,500 was debited but I didn't shop",Fraud/Unauthorized
+"I got a message that ₹25,000 was debited but I didn't shop",Fraud/Unauthorized
+Multiple small transactions from my account I don't recognize,Fraud/Unauthorized
+Someone used my credit card online without my knowledge,Fraud/Unauthorized
+I found a duplicate charge of ₹999 on my statement,Fraud/Unauthorized
+"I found a duplicate charge of ₹25,000 on my statement",Fraud/Unauthorized
+"I found a duplicate charge of ₹2,000 on my statement",Fraud/Unauthorized
+"I found a duplicate charge of ₹7,500 on my statement",Fraud/Unauthorized
+"I found a duplicate charge of ₹1,500 on my statement",Fraud/Unauthorized
+"I never signed up for this subscription but ₹5,000 is charged monthly",Fraud/Unauthorized
+"I never signed up for this subscription but ₹25,000 is charged monthly",Fraud/Unauthorized
+I never signed up for this subscription but ₹999 is charged monthly,Fraud/Unauthorized
+I never signed up for this subscription but ₹500 is charged monthly,Fraud/Unauthorized
+My UPI ID was used to transfer money without my consent,Fraud/Unauthorized
+What is the status of my home loan application #TKT128276?,Loan
+What is the status of my home loan application #TKT497519?,Loan
+What is the status of my home loan application #TKT593152?,Loan
+What is the status of my home loan application #TKT979995?,Loan
+What is the status of my home loan application #TKT904150?,Loan
+My personal loan was approved but I haven't received the amount,Loan
+Why was my loan application rejected?,Loan
+I applied for a business loan 3 weeks ago and heard nothing,Loan
+Can I get an education loan for my child?,Loan
+My EMI was deducted twice this month,Loan
+I want to foreclose my car loan,Loan
+My loan top-up request has been pending for 2 weeks,Loan
+Interest rate on my loan seems higher than agreed,Loan
+I want to restructure my loan due to job loss,Loan
+My account is frozen because of KYC but I submitted documents,KYC
+I can't complete video KYC — the link keeps failing,KYC
+Why is my KYC showing as incomplete even after Aadhaar update?,KYC
+I updated my address but KYC is still showing old address,KYC
+My NRI account KYC is expiring next month,KYC
+My company account KYC documents were submitted but account is still restricted,KYC
+I can't link my Aadhaar due to name mismatch,KYC
+Why is my account marked as dormant?,KYC
+My PAN verification is failing on net banking,KYC
+I need to update my mobile number for KYC,KYC
+I'm unable to login to my net banking account,Account Access
+My account is showing negative balance but I didn't overdraw,Account Services
+I forgot my ATM PIN and can't reset it online,Account Access
+My salary credit is delayed by 3 days,Transaction/Payment Issue
+I need to close my account but there are pending charges,Account Services
+My fixed deposit matured but amount not credited,Deposit Issue
+I want to add my wife as a joint account holder,Account Services
+My cheque was returned even though I had sufficient balance,Transaction/Payment Issue
+Why was my NEFT transfer delayed?,Transaction/Payment Issue
+I can't see my recent transactions in the app,Account Access
+I cannot sign in to my internet banking account,Account Access
+My online banking password is not working,Account Access
+My bank account login has been locked,Account Access
+I forgot my internet banking username,Account Access
+The banking app keeps rejecting my password,Account Access
+I am unable to reset my login credentials,Account Access
+My mobile banking account is blocked,Account Access
+I cannot access my account after changing phones,Account Access
+The login OTP is not arriving on my registered number,Account Access
+My account access was disabled after multiple login attempts,Account Access
+I receive an authentication error when signing in,Account Access
+I cannot log in using my customer ID,Account Access
+My internet banking session expires immediately,Account Access
+The banking app logs me out automatically,Account Access
+I am unable to activate internet banking,Account Access
+My login credentials are showing as invalid,Account Access
+I need help unlocking my online banking account,Account Access
+I cannot access mobile banking after reinstalling the app,Account Access
+My biometric login is not working,Account Access
+I cannot register my device for mobile banking,Account Access
+The banking website says my user ID is blocked,Account Access
+I am unable to change my internet banking password,Account Access
+The app freezes whenever I try to log in,Account Access
+My two-factor authentication is failing,Account Access
+I cannot access my account from a new device,Account Access
+My banking login verification code has expired,Account Access
+I am unable to enable fingerprint login,Account Access
+How do I close my savings account?,Account Services
+I want to convert my savings account into a salary account,Account Services
+Please explain the procedure to add a joint account holder,Account Services
+I need to remove a joint holder from my bank account,Account Services
+How can I update the nominee for my savings account?,Account Services
+I want to change my registered mobile number,Account Services
+Please update my email address linked to my bank account,Account Services
+I need to change my residential address in bank records,Account Services
+How can I transfer my account to another branch?,Account Services
+I want to reactivate my dormant savings account,Account Services
+What documents are required to close a current account?,Account Services
+I want to convert my minor account into a regular account,Account Services
+How can I change the operating instructions for my joint account?,Account Services
+Please help me remove an outdated nominee,Account Services
+I need to update my name after marriage,Account Services
+How do I request an account closure certificate?,Account Services
+I want to change my account type,Account Services
+Can I add a second account holder to my existing account?,Account Services
+How can I update my communication preferences?,Account Services
+I need a bank account statement for the previous financial year,Account Services
+How do I request a new passbook?,Account Services
+I want to change my home branch,Account Services
+Please explain how to register a nominee,Account Services
+How do I update my signature in bank records?,Account Services
+I want to link my savings account to another customer profile,Account Services
+How can I change the mode of operation of my account?,Account Services
+I need assistance transferring my account to another city,Account Services
+My UPI payment failed but money was debited,Transaction/Payment Issue
+I transferred money through NEFT but the beneficiary has not received it,Transaction/Payment Issue
+My IMPS transaction is showing pending,Transaction/Payment Issue
+The merchant did not receive my payment,Transaction/Payment Issue
+My electricity bill payment was unsuccessful,Transaction/Payment Issue
+I was charged twice for the same online purchase,Transaction/Payment Issue
+My bank transfer has not been processed,Transaction/Payment Issue
+The amount was deducted but the ATM did not dispense cash,Transaction/Payment Issue
+My cheque deposit has not been cleared,Transaction/Payment Issue
+The recipient says my transfer has not arrived,Transaction/Payment Issue
+My UPI transaction is stuck in processing,Transaction/Payment Issue
+I sent money to the wrong beneficiary by mistake,Transaction/Payment Issue
+My scheduled bank transfer did not execute,Transaction/Payment Issue
+Why was my international remittance delayed?,Transaction/Payment Issue
+My debit card payment was declined at the shop,Transaction/Payment Issue
+The payment gateway timed out during my transaction,Transaction/Payment Issue
+My credit card bill payment is not reflected,Transaction/Payment Issue
+The bank has not credited my inward remittance,Transaction/Payment Issue
+My cheque clearance is taking longer than expected,Transaction/Payment Issue
+My refund has not reached my bank account,Transaction/Payment Issue
+I made a payment but received no transaction confirmation,Transaction/Payment Issue
+My salary transfer is still pending,Transaction/Payment Issue
+My UPI collect request payment is failing,Transaction/Payment Issue
+I cannot complete an RTGS transfer,Transaction/Payment Issue
+My standing instruction payment was not processed,Transaction/Payment Issue
+The money transfer shows successful but the receiver has no credit,Transaction/Payment Issue
+My bank transfer was reversed without explanation,Transaction/Payment Issue
+My fixed deposit maturity amount has not been credited,Deposit Issue
+I want to renew my fixed deposit for another year,Deposit Issue
+The interest credited on my FD is less than expected,Deposit Issue
+How can I close my fixed deposit before maturity?,Deposit Issue
+My recurring deposit installment was not processed,Deposit Issue
+I need a statement for my recurring deposit account,Deposit Issue
+Why was a penalty charged on my premature FD withdrawal?,Deposit Issue
+My fixed deposit receipt is missing,Deposit Issue
+I want to change the maturity instructions for my FD,Deposit Issue
+The bank renewed my fixed deposit without my request,Deposit Issue
+My recurring deposit maturity payment is delayed,Deposit Issue
+How is interest calculated on my fixed deposit?,Deposit Issue
+I want to open a tax-saving fixed deposit,Deposit Issue
+The maturity date shown for my deposit is incorrect,Deposit Issue
+My FD interest payout has not arrived,Deposit Issue
+I need to update the nominee on my fixed deposit,Deposit Issue
+How can I transfer my fixed deposit to another branch?,Deposit Issue
+My recurring deposit account was closed unexpectedly,Deposit Issue
+I want to increase my recurring deposit installment,Deposit Issue
+Why is the interest rate on my FD different from the advertised rate?,Deposit Issue
+I need a duplicate fixed deposit certificate,Deposit Issue
+My deposit renewal request is still pending,Deposit Issue
+Can I withdraw part of my fixed deposit?,Deposit Issue
+My fixed deposit was prematurely closed without my instruction,Deposit Issue
+The principal amount credited after FD maturity is incorrect,Deposit Issue
+I want to change the interest payout frequency on my deposit,Deposit Issue
+My recurring deposit auto-debit failed,Deposit Issue
+How do I stop automatic renewal of my fixed deposit?,Deposit Issue
+The bank has not issued confirmation for my new fixed deposit,Deposit Issue
+My KYC verification is still pending,KYC
+The bank rejected my identity proof during KYC,KYC
+How can I complete video KYC from home?,KYC
+My PAN verification failed during account verification,KYC
+I uploaded my Aadhaar but KYC is not approved,KYC
+The bank is asking me to complete re-KYC,KYC
+My KYC documents are under review for several days,KYC
+I received a notification that my KYC has expired,KYC
+How can I check the status of my KYC application?,KYC
+My address proof was rejected during KYC verification,KYC
+I cannot complete biometric verification for KYC,KYC
+What documents are accepted for customer identity verification?,KYC
+My video KYC appointment was cancelled,KYC
+The bank has restricted my account due to incomplete KYC,KYC
+I need to update my PAN details for KYC compliance,KYC
+My photograph was rejected during online KYC,KYC
+The KYC portal is not accepting my identity documents,KYC
+I completed KYC but the bank still shows verification pending,KYC
+How do I submit documents for periodic KYC renewal?,KYC
+My date of birth does not match the KYC records,KYC
+What is the status of my personal loan application?,Loan
+My home loan EMI was deducted twice this month,Loan
+I want to know the interest rate on my education loan,Loan
+How can I apply for a vehicle loan?,Loan
+My loan disbursement has been delayed,Loan
+I need a statement showing my outstanding loan balance,Loan
+How do I make a partial prepayment on my home loan?,Loan
+I want to close my personal loan before the tenure ends,Loan
+My EMI payment is not reflected in the loan account,Loan
+How can I change the repayment date for my loan?,Loan
+I need a loan foreclosure statement,Loan
+The bank charged an unexpected penalty on my EMI,Loan
+Can I extend the repayment tenure of my education loan?,Loan
+My loan interest rate increased without notification,Loan
+How can I obtain a no-dues certificate after loan closure?,Loan
+My bank has not released the approved home loan amount,Loan
+What is the daily ATM cash withdrawal limit?,Account Services
+How much money can I withdraw from an ATM per day?,Account Services
+Can I increase my ATM withdrawal limit?,Account Services
+What is the maximum cash withdrawal allowed at an ATM?,Account Services
+How do I change my ATM withdrawal limit?,Account Services
+What are the charges for ATM withdrawals?,Account Services
+How many free ATM withdrawals are allowed each month?,Account Services
+Is there a limit on international ATM withdrawals?,Account Services
+Can I reduce my daily cash withdrawal limit?,Account Services
+Where can I check my ATM transaction limits?,Account Services
+My passport details are not updating in the bank records,KYC
+I cannot update my passport information in my bank KYC,KYC
+My passport number is incorrect in the bank records,KYC
+The bank has not updated my renewed passport details,KYC
+How can I correct my passport information in KYC?,KYC
+My identity document update is pending with the bank,KYC
+The bank rejected my passport during KYC verification,KYC
+My KYC documents are not reflecting in my account,KYC
+My updated address proof is not showing in KYC records,KYC
+My name on the passport does not match my bank KYC details,KYC
+I submitted my passport for KYC but the update is still pending,KYC
+How can I update my identification documents with the bank?,KYC
